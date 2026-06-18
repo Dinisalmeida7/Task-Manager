@@ -1,0 +1,18 @@
+# TaskFlow — Task Management System
+
+Full-stack task management app: REST API with JWT auth, React frontend,
+PostgreSQL persistence, Docker-based infrastructure, and LLM-powered
+task summaries / priority suggestions.
+
+## Tech Stack
+- **Backend:** FastAPI, SQLAlchemy, PostgreSQL
+- **Auth:** JWT
+- **Frontend:** React (Vite)
+- **Infra:** Docker, docker-compose
+- **AI:** LLM API integration
+
+## Status
+🚧 In active development
+
+## Getting Started
+_Coming soon._
